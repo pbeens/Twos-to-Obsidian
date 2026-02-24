@@ -14,6 +14,10 @@ A simple Python utility to split a large [Twos App](https://www.twosapp.com/) ar
 
 - Python 3.x (no external dependencies required).
 
+## How to Export from TwosApp
+
+To get your Twos archive, go to **Settings > Export > Download as markdown**.
+
 ## Usage
 
 ### Option 1: Interactive (Easiest)
