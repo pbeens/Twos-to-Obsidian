@@ -41,6 +41,10 @@ python export_twos.py --input "My-Twos-Archive.md" --output "./MyExport"
 5. Empty entries are ignored to keep your vault clean.
 6. Sub-headings, links, and S3 image URLs are preserved exactly as they appear.
 
+## Bug Reports & Feature Requests
+
+Please use the [GitHub Issues](https://github.com/pbeens/Twos-to-Obsidian/issues) page to report any bugs or suggest new features.
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
